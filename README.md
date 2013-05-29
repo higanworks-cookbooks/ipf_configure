@@ -35,7 +35,7 @@ This recipe creates `ipf.conf` file. The rules are set by some recipes in run_li
 Examples
 ----
 
-TODO: examples here..
+see `recipes/example.rb`
 
 
 Contributing
